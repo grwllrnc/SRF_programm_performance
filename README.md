@@ -14,5 +14,6 @@ The dataset has the following variables:
 - `MA_3+` *float*: Market share of viewers older than 3 years old (in percent)
 - `R_T_15_59` *integer*: Rating in thousand (viewers between 15 and 59 years)
 - `MA_15_59` *float*: Market share of viewers between 15 and 59 years (in percent)
+- `Sender` *string*: Channel (e.g., "SRFzwei" or "SRF1")
 
 The measurements of TV ratings in Switzerland are conducted by [Mediapulse AG](https://www.mediapulse.ch).
