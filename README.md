@@ -17,3 +17,6 @@ The dataset has the following variables:
 - `Sender` *string*: Channel (e.g., "SRFzwei" or "SRF1")
 
 The measurements of TV ratings in Switzerland are conducted by [Mediapulse AG](https://www.mediapulse.ch).
+
+#### Jupyter notebook
+The Jupyter notebook in this repo documents how the data was scraped and wrangled.
