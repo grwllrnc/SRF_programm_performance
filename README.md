@@ -1,6 +1,6 @@
 # TV ratings of the Schweizer Radio und Fernsehen (SRF)
 
-The ratings of SRF1 and SRF2 are published on [http://www.srf.ch/medien/publikumszahlen/](http://www.srf.ch/medien/publikumszahlen/) as PDF files. This repository documents the rating in a csv file format. The dataset will be updated on a daily basis with a lag of about 4 days.
+The ratings of SRF1 and SRF2 are published on [http://www.srf.ch/medien/publikumszahlen/](http://www.srf.ch/medien/publikumszahlen/) as PDF files. This repository documents the rating in a csv file format.
 
 #### Description
 The dataset has the following variables:
